@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://coolstraw.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://coolstraw.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://coolstraw.ca/collections/natural-soap-body-products.atom"/>
+  <title>Cool Straw</title>
+  <updated>2021-08-11T20:17:50-04:00</updated>
+  <author>
+    <name>Cool Straw</name>
+  </author>
+  <entry>
+    <id>https://coolstraw.ca/products/3506103943268</id>
+    <published>2021-08-11T20:17:50-04:00</published>
+    <updated>2021-08-11T20:17:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/natural-sisal-soap-bag"/>
+    <title>Natural Sisal Soap Bag</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/sisalbag.jpg?v=1615395196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span>Customize your </span><span>own</span><span> soap on a rope, w</span><span>ash and exfoliate at the same time!</span></span></span></span></p>
+<p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span> </span><span>Don’t let your soap disintegrate sitting in its own scum. Hang to dry to extend the life of your soaps and avoid gross build up.</span></span></span></span></p>
+<p><span color="#555555"><span face="Encode Sans, sans-serif"><span size="3"><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">Unlimited uses for t</span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">his versatile, durable and natural sisal bag. </span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">Store all your goodies in boho-chic style -</span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;"> </span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">great </span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">for </span><font color="#555555" face="Encode Sans, sans-serif" size="3">jewelry, change </font><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">and </span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">to stop keys from scratching</span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;"> </span><span style="color: #555555; font-family: 'Encode Sans', sans-serif; font-size: medium;">everything in your bag!</span></span></span></span></p>
+<p style="padding-left: 30px;"><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><b>Includes:</b> 1 Natural Sisal Soap Bag</span></span></span></p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#jewellrybag</s:tag>
+    <s:tag>#natural</s:tag>
+    <s:tag>#naturalbag</s:tag>
+    <s:tag>#naturalsisal</s:tag>
+    <s:tag>#sisal</s:tag>
+    <s:tag>#sisalbag</s:tag>
+    <s:tag>#sisaljewellrybag</s:tag>
+    <s:tag>#sisalsoapbag</s:tag>
+    <s:tag>#soapbag</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/3506103943268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566995329139</id>
+    <published>2021-08-11T20:02:34-04:00</published>
+    <updated>2021-08-11T20:02:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/mint-shampoo-bar-geogian-bay-soapworks"/>
+    <title>Mint Shampoo Bar - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0289.jpg?v=1618319711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Ban the plastic shampoo bottle from your washroom! Our Mint Shampoo Bar is similar to our Lavender Shampoo Bar but with the added tingle of mint and rosemary.  Simply lather and rinse.</span></p>
+<div style="padding-left: 30px;">
+<strong>Ingredients:</strong> Olive Oil, Coconut Oil, Water, Palm Oil, Sodium Hydroxide, Castor Oil, Essential Oils of Peppermint, Spearmint and Rosemary.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Mint Shampoo Bar - approx 75g</div>
+<br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>shampoo</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566995329139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566997557363</id>
+    <published>2021-08-11T20:02:14-04:00</published>
+    <updated>2021-08-11T20:02:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/scent-free-shampoo-bar"/>
+    <title>Scent-Free Shampoo Bar - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0290.jpg?v=1618319854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Ban the plastic shampoo bottle from your washroom! Our Scent-Free Shampoo Bars contain rich olive, coconut and castor oils that are especially good for hair care. Simply lather and rinse. </span></p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Olive Oil, Coconut Oil, Water, Palm Oil, Sodium Hydroxide, Castor Oil.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Scent-Free Shampoo Bar approx 75g</div>
+<br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>shampoo</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566997557363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566060392563</id>
+    <published>2021-08-11T20:00:41-04:00</published>
+    <updated>2021-08-11T20:00:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/sandalwood-soap-georgian-bay-soapworks"/>
+    <title>Sandalwood Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0274.jpg?v=1618253782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Warm and woody. Wonderful for all skin types.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Coconut Oil, Pure Spring Water, Palm Oil, Soybean Oil, Sodium Hydroxide, Cocoa Butter, Oxide, Fragrance Oil.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Sandalwood Soap - approx 75g</div><br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p><br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566060392563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566062620787</id>
+    <published>2021-08-11T20:00:20-04:00</published>
+    <updated>2021-08-11T20:00:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/sunflower-calendula-soap-georgian-bay-soapworks"/>
+    <title>Sunflower &amp; Calendula Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0275.jpg?v=1618253931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A nice creamy bar with the sweet scent of freshly peeled lemons.  A great bar for acne and eczema.</span></p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Pure Spring Water, Coconut Oil, Sunflower Oil, Palm Oil, Sodium Hydroxide, Calendula Petals, Essential Oils of Lemon &amp; Citronella, Oxide</div>
+<div style="padding-left: 30px;"><span><strong>Includes:</strong> 1 Sunflower &amp; Calendula Soap - approx 75g</span></div><br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p><br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566062620787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566041059443</id>
+    <published>2021-08-11T19:59:59-04:00</published>
+    <updated>2021-08-11T19:59:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/fruitada-soap-georgian-soapworks"/>
+    <title>Fruitada Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0267.jpg?v=1618252423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A long-lasting fresh fruity scent, with a rich creamy lather. Great for dry skin.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Coconut Oil, Pure Spring Water, Palm Oil, Soybean Oil, Sodium Hydroxide Cocoa Butter, Fragrance Oil, Oxide, Ultramarine.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Fruitada Soap - approx 75g</div>
+<br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566041059443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566044401779</id>
+    <published>2021-08-11T19:59:36-04:00</published>
+    <updated>2021-08-11T19:59:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/geranium-soap-georgian-soapworks"/>
+    <title>Geranium Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0268.jpg?v=1618252678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With a beautiful rose-like scent, this is a wonderful soap for oily skin. Creamy and long lasting.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Pure Spring Water, Sunflower Oil, Coconut Oil, Palm Oil, Sodium Hydroxide, Essential Oils of Lavender, Sweet Orange, Geranium &amp; Patchouli, Oxide</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Geranium Soap - approx 75g</div><br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p><br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566044401779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566035128435</id>
+    <published>2021-08-11T19:59:08-04:00</published>
+    <updated>2021-08-11T19:59:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/bar-none-soap-georgian-soapworks"/>
+    <title>Bar None Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0265.jpg?v=1618251983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A scent-free bar with the addition of cocoa butter. A great bar for those of you that have scent sensitive skin.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients:</strong> Coconut Oil, Pure Spring Water, Palm Oil, Soybean Oil, Sodium Hydroxide, Cocoa Butter.</div>
+<div style="padding-left: 30px;">
+<strong>Included:</strong> 1 Bar None Soap - approx 75g</div><br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em><br></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566035128435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566067142771</id>
+    <published>2021-08-11T19:57:54-04:00</published>
+    <updated>2021-08-11T19:57:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/vanilla-lavender-soap-georgian-bay-soapworks"/>
+    <title>Vanilla Lavender Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0277.jpg?v=1618254216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This wonderfully creamy bar is useful for oily skin, eczema, acne and countless other skin conditions</span></p>
+<div style="padding-left: 30px;">
+<strong>Ingredients:</strong> Pure Spring Water, Sunflower Oil, Coconut Oil, Palm Oil, Sodium Hydroxide, Fragrance Oil, Essential Oils of Lavender &amp; Spearmint.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Vanilla Lavender Soap - approx 75g</div><br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p><br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566067142771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566047416435</id>
+    <published>2021-08-11T19:57:00-04:00</published>
+    <updated>2021-08-11T19:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/lavender-oatmeal-soup-georgian-soapworks"/>
+    <title>Lavender Oatmeal Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0269.jpg?v=1618252875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Along with all the great properties of lavender, we've added oatmeal to this soap for an extra smooth and relaxing bar.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients:</strong> Pure Spring Water, Sunflower Oil, Coconut Oil, Palm Oil, Sodium Hydroxide,  Essential Oils of Lavender &amp; Clove, Ultramarine.</div>
+<div style="padding-left: 30px;"> <strong>Includes:</strong> 1 Lavender Oatmeal Soap - approx 75 g</div>
+<br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<p><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566047416435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566049775731</id>
+    <published>2021-08-11T19:56:35-04:00</published>
+    <updated>2021-08-11T19:56:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/sweetgrass-soap-georgian-soapworks"/>
+    <title>Sweetgrass Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0270.jpg?v=1618253046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">With a warm, earthy scent, coconut oil and cocoa butter makes this is a great bar for dry skin.</span></p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Coconut Oil, Pure Spring Water, Palm Oil, Soybean Oil, Sodium Hydroxide, Cocoa Butter, Fragrance Oil, Oxide.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Sweetgrass Soap - approx 75g</div>
+<br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566049775731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566064685171</id>
+    <published>2021-08-11T19:56:13-04:00</published>
+    <updated>2021-08-11T19:56:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/sweet-basil-soap-georgian-bay-soapworks"/>
+    <title>Sweet Basil Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0276.jpg?v=1618254061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Basil is sweet and spicy. It is used to relieve gloom and fatigue. Lift spirits and promotes a sense of well being.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Olive Oil, Pure Spring Water, Palm Oil, Coconut Oil, Sodium Hydroxide, Essential Oils of Basil &amp; Lavender, Oxide</div>
+<div style="padding-left: 30px;"><span><strong>Includes:</strong> 1 Sweet Basil Soap - approx 75g</span></div><br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p><br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566064685171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566029164659</id>
+    <published>2021-08-11T19:55:51-04:00</published>
+    <updated>2021-08-11T19:55:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/patchouli-soap-georgian-soapworks"/>
+    <title>Patchouli Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0264.jpg?v=1618251656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This soap will take you back to the 60's.  We've added patchouli herb, good for acne, eczema and wrinkles.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Coconut Oil, Spring Water, Palm Oil, Soybean Oil, Sodium Hydroxide, Cocoa Butter, Essential Oils of  Patchouli, Geranium &amp; Lavender and Patchouli Herb</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Patchouli Soap - approx 75g</div>
+<br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566029164659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566057967731</id>
+    <published>2021-08-11T19:55:33-04:00</published>
+    <updated>2021-08-11T19:55:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/lily-of-the-valley-soap-georgian-soapworks"/>
+    <title>Lily of the Valley Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0273.jpg?v=1618253616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">If you enjoy a bouquet of Lily of the Valley you'll love this creamy soap and can enjoy the sweet scent all year round!</span></p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Olive Oil, Pure Spring Water, Palm Oil, Coconut Oil, Sodium Hydroxide, Parfum, Oxide.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Lily of the Valley Soap - approx 75g</div>
+<br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p>
+<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566057967731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566054690931</id>
+    <published>2021-08-11T19:54:54-04:00</published>
+    <updated>2021-08-11T19:54:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/lemongrass-soap-georgian-bay-soapworks"/>
+    <title>Lemongrass Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0272.jpg?v=1618253379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Our Lemongrass Soap smells great and has long lasting bubbles.  Great for all skin types.</span></p>
+<div style="padding-left: 30px;">
+<strong>Ingredients: </strong>Coconut Oil, Spring Water, Palm Oil, Soybean Oil, Sodium Hydroxide, Cocoa Butter, Essential Oils of Lemongrass, Eucalyptus &amp; Lavender and Oxide.</div>
+<div style="padding-left: 30px;">
+<strong>Includes:</strong> 1 Lemongrass Soap - approx 75g</div><br>
+<p><em>At Georgian Bay Soapworks we are concerned about the activities and practices in the Palm Oil industry that affect our planet and wildlife and we believe in and support the production of Palm Oil in a sustainable manner.</em></p>
+<p><em>Our Palm Oil is sourced from suppliers who are members and certified suppliers of RSPO (Roundtable of Sustainable Palm Oil) </em></p><br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566054690931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6566028673139</id>
+    <published>2021-08-11T19:54:28-04:00</published>
+    <updated>2021-08-11T19:54:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/cucumber-soap-georgian-soapworks"/>
+    <title>Cucumber Soap - Georgian Bay Soapworks</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_0263.jpg?v=1618251540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These suds smell like fresh picked cucumbers. Cucumber soap is wonderfully creamy and great for dry skin.</p>
+<div style="padding-left: 30px;">
+<strong>Ingredients:</strong> Pure Spring Water, Coconut Oil, Soybean Oil, Olive Oil, Sodium Hydroxide, Fresh Cucumbers, Fragrance Oil, Grapefruit Seed Extract, Oxide</div>
+<div style="padding-left: 30px;">
+<strong>Included:</strong> 1 Cucumber Soap - approx 75g</div>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6566028673139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6585835421811</id>
+    <published>2021-05-05T03:45:33-04:00</published>
+    <updated>2021-05-05T03:45:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/kitchen-scrubber"/>
+    <title>Kitchen Scrub Brush</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_9258.jpg?v=1620998554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versatile and eco friendly - a great work horse in the kitchen with sturdy wooden handle and natural bristles.  Convenient metal loop for you to hang to dry.</p>
+<p>The scrubbing doesn't stop in the kitchen, stock your cleaning kit with another of these stylish scrubbers for the washroom too!</p>
+<p style="padding-left: 30px;"><strong>Includes:</strong> 1 Kitchen Scrub Brush</p>
+<p><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#ecofriendly</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>cleaning</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>zero plastic</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6585835421811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6583030087795</id>
+    <published>2021-04-28T22:00:22-04:00</published>
+    <updated>2021-04-28T22:00:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/brush"/>
+    <title>Natural Bristle Brush</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/bathbrushoval.jpg?v=1620499334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All natural, sustainable personal grooming! A perfectly shaped, sturdy little brush for men's beard maintenance, or an at home mani pedi. </p>
+<p>Grab one for the kitchen to use as a big veggie brush and scrub those spuds in a snap!</p>
+<p style="padding-left: 30px;"><strong>Includes:</strong> 1 Natural Bristle Brush - 4.5" length x 2.25" width x 1" inch height</p>
+<p><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beard brush</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>nail brush</s:tag>
+    <s:tag>scrub brush</s:tag>
+    <s:tag>vegetable brush</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6583030087795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6564350492787</id>
+    <published>2021-04-11T23:34:59-04:00</published>
+    <updated>2021-04-11T23:34:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/hemp-soap-bag"/>
+    <title>Hemp Soap Bag</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/bathsoapbaghemp.jpg?v=1624372198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span color="#555555"><span face="Encode Sans, sans-serif"><span size="3"><span>Wash and gently exfoliate at the same time!</span></span></span></span></p>
+<p><span color="#555555"><span face="Encode Sans, sans-serif"><span size="3"><span></span><span>Don’t let your soap disintegrate while sitting in its own scum. Hang to dry to extend the life of your soaps and avoid gross build up.</span></span></span></span></p>
+<p><span color="#555555"><span face="Encode Sans, sans-serif"><span size="3"><span>Unlimited uses for t</span><span>his versatile, durable and sustainable hemp bag. </span><span>Store all your goodies in boho-chic style -</span><span> </span><span>great </span><span>for </span><span>jewellery, change </span><span>and </span><span>to stop keys from scratching</span><span> </span><span>everything in your bag!</span></span></span></span></p>
+<p style="padding-left: 30px;"><span color="#555555"><span face="Encode Sans, sans-serif"><span size="3"><b>Includes:</b><span> 1 Hemp Soap</span> Bag</span></span></span></p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#cleanbeauty</s:tag>
+    <s:tag>#ecofriendly</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>hemp</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6564350492787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/4673439006835</id>
+    <published>2021-02-19T09:46:14-05:00</published>
+    <updated>2021-02-19T09:46:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/bamboo-body-scrub"/>
+    <title>Bamboo Body Scrubber</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_9234.jpg?v=1615395208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span>Exfoliate </span><span>and</span><span> clean with this natural bristle brush. </span></span></span></span></p>
+<p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span>Dry brushing is awesome for boosting circulation, and promote</span><span>s</span><span> skin health by assisting to re-generate new skin. 🙌</span></span></span></span></p>
+<p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3">Just rinse &amp; repeat with every shower!</span></span></span></p>
+<p style="padding-left: 30px;"><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><b>Includes:</b>  1 Bamboo Scrub Brush</span></span></span></p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>body scrub</s:tag>
+    <s:tag>dry brush</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>round brush</s:tag>
+    <s:tag>scrubber</s:tag>
+    <s:tag>shower brush</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/4673439006835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/4673438351475</id>
+    <published>2021-02-19T09:41:49-05:00</published>
+    <updated>2021-02-19T09:41:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/bamboo-shower-brush"/>
+    <title>Bamboo Shower Brush</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_9239.jpg?v=1625311880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span>Our favourite natural-</span><span>b</span><span>ristle shower brush banishes </span><span>any</span><span> dry skin and preps your canvas for a body moisturizer. </span><span>Bamboo </span><span>handle</span><span> with organic bristles, hang </span><span>to</span><span> dry </span><span>on cotton string</span><span>.</span></span></span></span></p>
+<p style="padding-left: 30px;"><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span><b>Includes:</b></span><span> </span><span> </span><span>1 Bamboo Shower Brush</span></span></span></span></p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#cleanbeauty</s:tag>
+    <s:tag>#ecofriendly</s:tag>
+    <s:tag>bamboo</s:tag>
+    <s:tag>bamboo bath</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>dry brush</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>shower brush</s:tag>
+    <s:tag>zero plastic</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/4673438351475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/4632375689331</id>
+    <published>2020-12-27T09:02:25-05:00</published>
+    <updated>2020-12-27T09:02:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/hemp-shower-glove"/>
+    <title>Hemp Wash Glove</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_9182.jpg?v=1615395195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This handy hemp shower glove is the perfect combination of washing &amp; exfoliating!</p>
+<p>If you like a good, but not too rough of a scrub, you've found your best friend. Slip it on, add your cleaning soap or body wash and scrub away!  </p>
+<p>100% Hemp fibers help stimulate blood circulation. One Size Fits All!</p>
+<p style="padding-left: 30px;"><strong>Includes:</strong> 1 Hemp Wash Glove</p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath glove</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>hemp</s:tag>
+    <s:tag>scrubber</s:tag>
+    <s:tag>shower glove</s:tag>
+    <s:tag>soap</s:tag>
+    <s:tag>wash cloth</s:tag>
+    <s:tag>wash glove</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/4632375689331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

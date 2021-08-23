@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://coolstraw.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://coolstraw.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://coolstraw.ca/collections/toddlers-kids.atom"/>
+  <title>Cool Straw</title>
+  <updated>2021-05-14T09:18:21-04:00</updated>
+  <author>
+    <name>Cool Straw</name>
+  </author>
+  <entry>
+    <id>https://coolstraw.ca/products/6589414310003</id>
+    <published>2021-05-14T09:18:21-04:00</published>
+    <updated>2021-05-14T09:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/bamboo-kids-toothbrush"/>
+    <title>Bamboo Kids Toothbrush</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_1037.jpg?v=1620998272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Perfectly sized to fit in smaller mouths and for little hands to grip! </span></p>
+<p><span>One way to save our planet is to consider how we can eliminate as much plastic from our lives as possible. 🌱 If we all switched to a Bamboo Toothbrush we would save BILLIONS of plastic toothbrushes from the landfill every year. </span></p>
+<p><span>Bamboo is naturally anti-fungal and anti-bacterial - a perfect material in the washroom. </span></p>
+<p>Colour coded to claim your own from the rest of family, or coordinate with your bathroom decor.<br></p>
+<p>Durable and water resistant handle with soft, BPA-free bristles for sensitive gums.</p>
+<p>Add a matching <a href="https://coolstraw.ca/collections/sustainable-hygiene-products/products/wooden-toothbrush-stand">Bamboo Toothbrush Stand</a> to complete your eco-friendly vibe.</p>
+<p>Choose zero plastic products &amp; packaging that won't harm the environment when tossed out!</p>
+<p style="padding-left: 30px;"><strong>Includes:</strong> 1 Kids Bamboo Toothbrush</p>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>bamboo toothbrush</s:tag>
+    <s:tag>child</s:tag>
+    <s:tag>kids toothbrush</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6589414310003</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6589414310003</id>
+      <title>Purple</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6589414310003</id>
+      <title>Green</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6589414310003</id>
+      <title>Pink</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6589414310003</id>
+      <title>Dark Blue</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6589414310003</id>
+      <title>Black</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6589414310003</id>
+      <title>White</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6535658995827</id>
+    <published>2021-05-04T19:01:12-04:00</published>
+    <updated>2021-05-04T19:01:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/baby-wooden-spork"/>
+    <title>Baby Bamboo Spork</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/IMG_91042.jpg?v=1614284431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Start our next generation on their plastic free journey, or just look cute and use it yourself - conveniently sized to travel anywhere!</p>
+<p style="padding-left: 30px;"><strong>Includes</strong>: 1 Baby Bamboo Spork</p>
+<p><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>bamboo</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>fork</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>reusable</s:tag>
+    <s:tag>spoon</s:tag>
+    <s:tag>spork</s:tag>
+    <s:tag>zero plastic</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6535658995827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6535657554035</id>
+    <published>2021-05-04T18:37:01-04:00</published>
+    <updated>2021-05-04T18:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/baby-wooden-spoon-set-set-of-3"/>
+    <title>Baby Bamboo Spoons - Set of 3</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/kitchencutlerybabyset.jpg?v=1620446637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sustainable start for the star of your show - adorable animals promote interactive feeding and inspire imaginations, with zero plastic waste! </p>
+<div style="padding-left: 30px;">
+<strong>Includes</strong>: 3 Baby Bamboo Spoons; Giraffe, Snake, Bear</div>
+<div style="padding-left: 30px;">1 Travel Pouch</div>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>bamboo</s:tag>
+    <s:tag>cutlery</s:tag>
+    <s:tag>kids</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6535657554035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/6585769459827</id>
+    <published>2021-05-04T16:36:49-04:00</published>
+    <updated>2021-05-04T16:36:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/nursing-pads-re-useable"/>
+    <title>Bamboo Cotton Nursing Pads - Pack of 6</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/bathnursingpad.jpg?v=1620160596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nursing pads absorb milk that may leak between feedings. </span><span data-mce-fragment="1">It is also common for your milk to leak if you hear a baby crying or it is close to the time your baby would normally feed. </span></p>
+<p><span data-mce-fragment="1">Avoid using disposable nursing pads that contain absorbent chemicals and lack proficient air circulation, which can lead to discomfort and trapped moisture. Breast infections thrive in moist environments; the more you leak the more you need to replace your disposable pads, which is very costly.</span></p>
+<p><span data-mce-fragment="1">Because they are made of natural fibers, cloth nursing pads provide better air circulation, which is necessary to aid in the sore nipple healing process.</span></p>
+<p>100% ECO FRIENDLY BAMBOO COTTON is natural, antibacterial and super soft against your most sensitive skin.</p>
+<p>Easy to wash with your baby's clothes, Reusable Bamboo Cotton Nursing pads are designed for eco-conscious parents who are thinking about the planet they leave for their child.</p>
+<ul data-mce-fragment="1"></ul>
+<div style="padding-left: 30px;">
+<strong>Includes: </strong>6 Bamboo Cotton Nursing Pads - 5" diameter </div>
+<div style="padding-left: 30px;">1 Cotton Mesh Storage/Laundry Bag</div>
+<div>
+<br><br><br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo</s:tag>
+    <s:tag>bamboo cotton</s:tag>
+    <s:tag>bra liner</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>nursing aids</s:tag>
+    <s:tag>nursing pads</s:tag>
+    <s:tag>reusable</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/6585769459827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coolstraw.ca/products/3706920534116</id>
+    <published>2019-11-04T19:24:12-05:00</published>
+    <updated>2019-11-04T19:24:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://coolstraw.ca/products/cutlery-set"/>
+    <title>Wheat Straw Cutlery Set with Case</title>
+    <s:type></s:type>
+    <s:vendor>Cool Straw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0193/7109/8212/products/kitchencutlerywheatnatural.jpg?v=1620154960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Straw<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span>Take a step into your zero plastic future with a simple</span><span> set of</span><span> cutlery, kept </span><span>stashed</span><span> in</span><span> your ba</span><span>g! Y</span><span>ou never know when you'll </span><span>need to grab</span><span> a </span><span>bite</span><span> during your busy day.</span></span></span></span></p>
+<p><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><span>Mad</span><span>e</span><span> from </span><span>w</span><span>heat straw,</span><span> </span><span>these are a </span><span>premium food grade materia</span><span>l – </span><span>100% </span><span>BPA free, FDA approv</span><span>ed</span><span>, </span><span>durable, easy to wipe clean </span><span>&amp;</span><span> dishwasher safe.</span></span></span></span></p>
+<div style="padding-left: 30px;"><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3"><b>Includes: </b>1 of each - Wheat Straw Fork, Spoon &amp; Knife</span></span></span></div>
+<div style="padding-left: 30px;"><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3">1 Wheat Straw Case</span></span></span></div>
+<div style="padding-left: 30px;"><span style="color: #555555;" color="#555555"><span style="font-family: 'Encode Sans', sans-serif;" face="Encode Sans, sans-serif"><span style="font-size: medium;" size="3">In Natural, Blue, or Mint</span></span></span></div>
+<p> <br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cutlery</s:tag>
+    <s:tag>cutleryset</s:tag>
+    <s:tag>eco friendly</s:tag>
+    <s:tag>schoolsupply</s:tag>
+    <s:tag>wheatstraw</s:tag>
+    <s:variant>
+      <id>https://coolstraw.ca/products/3706920534116</id>
+      <title>Natural</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/3706920534116</id>
+      <title>Blue</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coolstraw.ca/products/3706920534116</id>
+      <title>Mint</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
